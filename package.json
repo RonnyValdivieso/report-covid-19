@@ -13,7 +13,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "postinstall": "npm run build",
+    "postinstall": "if test \"$NODE_ENV\" = \"production\" ; then npm run build ; fi ",
     "start": "node server.js",
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit",
