@@ -4,10 +4,10 @@
   "description": "COVID-19 Report APP",
   "author": {
     "name": "Ronny Valdivieso",
-    "url": "htts://report-covid-19.com",
+    "url": "htts://cv19-report.com",
     "github": "https://github.com/ronnyvaldivieso"
   },
-  "homepage": "htts://report-covid-19.com",
+  "homepage": "htts://cv19-report.com",
   "copyright": "Copyright 2020 Ronny Valdivieso",
   "license": "MIT",
   "scripts": {
