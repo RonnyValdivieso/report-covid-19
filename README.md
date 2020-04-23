@@ -2,7 +2,6 @@
 
 ## Description
 Just another covid-19 report app.
-Developed by Ronny Valdivieso.
 
 ## Template
 (https://github.com/coreui/coreui-free-vue-admin-template/blob/master/LICENSE)
